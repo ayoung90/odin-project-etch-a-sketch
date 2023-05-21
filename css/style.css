@@ -1,0 +1,17 @@
+#canvasContainer{
+    border-style: solid;
+    border-width: 16px;
+    border-color: rgb(122, 59, 59);
+    border-radius: 10px;
+    width: fit-content;
+}
+.row {
+  display: flex;
+}
+.cell {
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  height: 16px;
+  width: 16px;
+}
