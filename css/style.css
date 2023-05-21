@@ -1,9 +1,9 @@
-#canvasContainer{
-    border-style: solid;
-    border-width: 16px;
-    border-color: rgb(122, 59, 59);
-    border-radius: 10px;
-    width: fit-content;
+#canvasContainer {
+  border-style: solid;
+  border-width: 16px;
+  border-color: rgb(122, 59, 59);
+  border-radius: 10px;
+  width: fit-content;
 }
 .row {
   display: flex;
@@ -14,4 +14,11 @@
   border-color: black;
   height: 16px;
   width: 16px;
+}
+.hovered {
+  background-color: grey;
+}
+#reset {
+  margin-top: 15px;
+  margin-left: 5px;
 }
